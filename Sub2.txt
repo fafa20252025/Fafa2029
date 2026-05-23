@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://29b2ea2e-44a8-a3f2-79be-29781b78d787@varzesh3.com:8080?encryption=none&type=ws&path=/&host=cdn-665e-o0g.fars-rehan.ir#@Anthony-2
 vless://29b2ea2e-44a8-a3f2-79be-29781b78d787@varzesh3.com:8080?path=/&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#@canfigiop
 vless://29b2ea2e-44a8-a3f2-79be-29781b78d787@varzesh3.com:8080?path=/&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#🔵⚪️@confihub-psiphon²²⁹
 vless://2a2b655c-6529-4001-ab8e-5c7992935642@snapp.ir:2086?path=/&security=&encryption=none&host=fin3.…#🇮🇷28146 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://77ee0e8e-66a8-4ff1-bc2a-9d5f54a909e0@register.mobile-khayam.ir:50121?sec
 vless://78426b35-89e3-4c8f-b21a-65717bc5c411@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#@V2ray_confiig
 vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@104.18.32.47:80?encryption=none&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=/eyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=none&type=ws#🍀13@oneclickvpnkeys
 vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&path=/&security=none&type=ws#🍀14@oneclickvpnkeys
+vless://78c82ae4-596b-45f6-8d21-2f136db7d205@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#@Black_Star_Vpn
