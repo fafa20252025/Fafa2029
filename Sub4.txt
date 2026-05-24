@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=&encryption=none&type=ws#🔵@chillguy_vpn
-vless://f30b3eee-2223-4328-b0a4-a66fb2c5ac98@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=/&host=gamedl.yeksancloud.ir#@GozargahAzad|🇮🇷
-vless://f30b3eee-2223-4328-b0a4-a66fb2c5ac98@snapp.ir:80?encryption=none&type=ws&path=/&host=gamedl.yeksancloud.ir#@aloconfig_com
-vless://f30b3eee-2223-4328-b0a4-a66fb2c5ac98@snapp.ir:80?encryption=none&type=ws&path=/&host=gamedl.yeksancloud.ir#@sogoandfuckyourlove
-vless://f30b3eee-2223-4328-b0a4-a66fb2c5ac98@snapp.ir:80?encryption=none&type=ws&path=/&host=gamedl.yeksancloud.ir#V2rayng_Fast
 vless://f33abbf6-1449-402b-96e0-1c39f8edf3d4@snapp.ir:8080?path=/&security=none&encryption=none&host=free.cdn-hio.mom&type=ws#@v2rayng_vpn403جوین جدید تل
 vless://f33abbf6-1449-402b-96e0-1c39f8edf3d4@snapp.ir:8080?path=/&security=none&encryption=none&host=free.cdn-hio.mom&type=ws#🇮🇷28456 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f33f3ce4-53ad-4738-ada7-8a9016901146@185.143.233.235:8880?type=ws&encryption=none&path=/ws?ed=2560&host=New1.legendperm.ir&security=none#🇮🇷28505 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +498,8 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&ho
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
