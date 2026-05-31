@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#TEL;Father_vpn³
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=0#@VpnFardad
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=0#NetMeli9-100
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@VpnFardad
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#@vpnbaz 🍬
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?encryption=none&type=xhttp&security=tls&path=/de&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@InvoProxy
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#TEL;FATHER_VPN⁴
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@InvoProxy
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@198.41.223.119:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@v2raybaaz 🍒
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@VpnFardad fast 1⚡
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@ai_duet تنهانت
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#Tel;Father_vpn²
 vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#@proSSH
 vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?security=reality&encryption=none&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=b82d7208fe23#Erfwp
@@ -503,3 +490,16 @@ vless://8696a766-a390-49c5-8b57-0dee69def9af@104.18.32.47:2087?path=/&security=t
 vless://86a66d7e-55c4-4664-b876-cfb433b37627@64.118.157.132:8880?security=reality&encryption=none&pbk=AXW_wdV2O4QQkMZ-ZAQ0GF0NiYbEv7jIxLnGMz7kSCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d19ed8632373fa00#سرور سوئد
 vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=client.imesaagetext.ir#Telegram : @V2ynpv
 vless://88b0b142-88e1-422d-84fb-ad8a762a9e11@172.65.158.241:3389?encryption=none&type=tcp&headerType=none#vmessorg
+vless://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#@moodfa
+vless://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#TEL;Father_vpn
+vless://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#VpnFardad 300GB
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?&security=none&type=ws&headerType=&host=pq-albania1.09vpn.com&path=/vless/#@v2rayconfigamir 9885
+vless://8968718e-bf35-454f-b1ce-4f622883eae1@midibznim.pesarkhob.com:8080/?type=ws&encryption=none&path=/&host=midibznim.pesarkhob.com&security=none#🩸VPNshop666
+vless://8968718e-bf35-454f-b1ce-4f622883eae1@midibznim.pesarkhob.com:8080/?type=ws&encryption=none&path=/&host=midibznim.pesarkhob.com&security=none#🩸VPNshop666  به عشق خودتون❤️
+vless://896e72df-9653-405b-886f-0d21ca0485a3@ia.subchar.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=snapp.ir&path=/&security=tls&sni=ia.subchar.ir&type=ws#🇩🇪40312 | ⚡️Telegram = t.me/SOSkeyNET
+vless://896e72df-9653-405b-886f-0d21ca0485a3@ia.subchar.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=snapp.ir&path=/&security=tls&sni=ia.subchar.ir&type=ws#🔵@chillguy_vpn
+vless://897da4d2-543a-4cbc-bb38-1a4a599d6543@www.speedtest.net:8443?path=/eyJqdW5rIjoiNGxXdzBkdEdZSGdjRkVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.pavof74662.workers.dev&fp=chrome&type=ws&sni=v2nGFASt.pavof74662.wOrkErs.dEv#1 🇩🇪 @V2ngFast
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2083?path=/%2F&security=tls&encryption=none&insecure=0&host=cIAllO-EGB.pAGES.dev&type=ws&allowInsecure=0&sni=cIAllO-EGB.pAGES.dev#@InvoProxy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2096?allowInsecure=1&encryption=none&host=CIALlO-EgB.pAGES.dEV&security=tls&sni=CIALlO-EgB.pAGES.dEV&type=ws#🇨🇦40430 | ⚡️Telegram = t.me/SOSkeyNET
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2096?allowInsecure=1&encryption=none&host=CIALlO-EgB.pAGES.dEV&security=tls&sni=CIALlO-EgB.pAGES.dEV&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
