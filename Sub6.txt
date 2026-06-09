@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#@config_NG
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@FarazV2ray
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?security=tls&fragment=1,1,tlshello,null&encryption=none&fm={"tcp":[{"settings":{"delay":"1","length":"1","packets":"tlshello"},"type":"fragment"}]}&echfq=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇳🇱57800 | ⚡️Telegram = t.me/SOSkeyNET
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.24.172:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#👉🆔@freenettir📡🇷🇺®️Russia©️Moscow🅿️ping:63.57ms
@@ -502,4 +503,3 @@ vless://a0c7638b-dd64-4fa2-80c4-d6a5561208d0@fi.linetcyberspace.com:443?encrypti
 vless://a0d47204-1b5d-4038-82d0-467cc88a1763@IPv4-address.apiappirani.ir:443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=webmail.iranisystem.com#@Ap_Ir6
 vless://a0d47204-1b5d-4038-82d0-467cc88a1763@informationprovided.vidboxco.ir:800?security=none&encryption=none&host=rubika.ir,igap.net,splus.ir,skyroom.online&headerType=http&type=tcp#@Ap_Ir6
 vless://a0d47204-1b5d-4038-82d0-467cc88a1763@informationprovided.vidboxco.ir:800?security=none&encryption=none&host=rubika.ir,igap.net,splus.ir,skyroom.online&headerType=http&type=tcp#@V2RFA
-vless://a0d47204-1b5d-4038-82d0-467cc88a1763@www.sourceforge.net:443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=test2.iranvatanam.com#@Ap_Ir6
