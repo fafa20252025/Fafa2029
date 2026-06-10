@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#🪭96@oneclickvpnkeys
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&encryption=none&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=b9988c11#@FarazV2ray
 vless://0a12381a-e241-4b63-a03c-1a5a45a95977@142.91.98.248:443?flow=xtls-rprx-vision&fp=chrome&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&security=reality&sid=6dba2e08344e6bf5&sni=sgp.locklance.lol&spx=/&type=tcp#🇸🇬SG-🚀@VPNine1
 vless://0a12381a-e241-4b63-a03c-1a5a45a95977@185.86.146.237:443?flow=xtls-rprx-vision&fp=chrome&pbk=b5SVPWpZANFfnpAoyJ4QZp8Q8Zl4Fl5AkIK1v9QSQVo&security=reality&sid=8461a95b499051ae&sni=userapi.com&type=tcp#🇷🇺RU-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?encryption=none
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?encryption=none&type=ws&path=/go.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴DO-🚀@VPNine1
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?encryption=none&type=ws&path=/playlist/about/jump.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴61998 | ⚡️Telegram = t.me/SOSkeyNET
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?encryption=none&type=ws&path=/playlist/about/jump.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴DO-🚀@VPNine1
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@216.238.110.198:8443?fp=chrome&host=linek.perry.us.kg&path=/temp/study/streaming&security=tls&sni=linek.perry.us.kg&type=ws#🇧🇷BR-🚀@VPNine1
