@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@104.16.6.70:443?path=/&security=tls&encryption=none&insecure=0&host=mos.rfiksma.top&fp=chrome&type=ws&allowInsecure=0&sni=sub.rfiksma.top#@Ap_Ir6
+vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@104.16.6.70:443?path=/&security=tls&encryption=none&insecure=0&host=mos.rfiksma.top&fp=chrome&type=ws&allowInsecure=0&sni=sub.rfiksma.top#kurdconfig
 vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@104.16.6.70:443?path=/&security=tls&encryption=none&insecure=0&host=mos.rfiksma.top&fp=chrome&type=ws&allowInsecure=0&sni=sub.rfiksma.top#برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
 vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@104.16.6.70:443?path=/&security=tls&encryption=none&insecure=0&host=mos.rfiksma.top&fp=chrome&type=ws&allowInsecure=0&sni=sub.rfiksma.top#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🔥
 vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@188.114.97.6:443?type=ws&security=tls&host=mos.rfiksma.top&path=/&sni=sub.rfiksma.top#@Morrfinchnl
@@ -500,6 +503,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#کیانت 359
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?security=none&allowInsecure=0&encryption=none&type=grpc#@freenettir
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?security=none&allowInsecure=0&encryption=none&type=grpc#@meliproxyy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?encryption=none&type=grpc&mode=gun#8https://t.me/ConfigX2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#@icv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
