@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&insecure=0&host=95r.ir&type=ws&allowInsecure=0&sni=95r.ir#Mix--@V2rayAlpha--8
 trojan://MITIVPN@94.140.0.100:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🦉@FreeConfigForYou
 trojan://MITIVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#@configprxy  ♥️👈 تلگرام
 trojan://MITIVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#@filembad
@@ -503,3 +502,4 @@ trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&alpn
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.lateralio.click#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.lateralio.click#☑➜چنلمون: Express_freevpn@
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#Channel : @Daily_Configs
+trojan://fdlpnbw31g886u39@179.237.75.181:34521?type=tcp&security=reality&headerType=none&sni=promotion.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=_GEGd2Dmkftju4_zfVaPGy2vDnEiobonHuO9aUcamFE&sid=75337431211f&spx=/GL3vhHyn1NxIvsE#@hi_proxy_iran :👈کانال تلگرام
