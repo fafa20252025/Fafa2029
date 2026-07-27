@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://1------------------BanV2ray------------------1@37.156.45.60:1571?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=db#@erfanandroid
 trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=fc1849f57be0#@mehrosaboran
 trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=db#@mehrosaboran
 trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=4a76cd52&spx=/3a4e7061e937f69&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇩🇪All¹⁵ | @BigSmoke_Config
@@ -503,3 +502,4 @@ vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=20
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²²⁰
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#@M4Dvpn
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#@NetAccount-NL
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
