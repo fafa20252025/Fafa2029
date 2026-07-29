@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
+vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#kurdconfig
+vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@FreakConfig
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@V2rayng_Fast
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
 vless://1d95c597-0a79-0c9c-d3b6-a84b7cf9ee6b@v1-ch-production.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/oxnetir-xh-stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=v1-ch-production.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=v1-ch-production.up.railway.app#@meliproxyy
@@ -500,6 +503,3 @@ vless://3b55d419-fe26-474e-811b-88f436b47125@Tuntr.capigodserv.ir:42542?security
 vless://3b55d419-fe26-474e-811b-88f436b47125@g5.makuelimiz.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪126033 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3b55d419-fe26-474e-811b-88f436b47125@g5.makuelimiz.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://3b55d419-fe26-474e-811b-88f436b47125@gt4.hashemgodserv.ir:31350?security=&encryption=none&host=www.apple.com&headerType=http&type=tcp#🇫🇷126034 | ⚡️Telegram = t.me/SOSkeyNET
-vless://3b55d419-fe26-474e-811b-88f436b47125@gt4.hashemgodserv.ir:31350?security=&encryption=none&host=www.apple.com&headerType=http&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://3b55d419-fe26-474e-811b-88f436b47125@italy.lunaparkmaku.com:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇮🇹126035 | ⚡️Telegram = t.me/SOSkeyNET
-vless://3b55d419-fe26-474e-811b-88f436b47125@italy.lunaparkmaku.com:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇮🇹IT-🚀@VPNine1
