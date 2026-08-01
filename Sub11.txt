@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.247:2053?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦@V2rayng_Fast
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Ap_Ir6
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@IRAN_V2RAY1
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
@@ -503,3 +502,4 @@ trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=
 trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
