@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.124.61.172:50443?security=reality&encryption=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#@MARAMBASHI 🫂
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&sid=#🇸🇪347Mb | Aeza Group
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#@NetAccount-SE
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?security=reality&encryption=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#@Capoit
@@ -503,3 +502,4 @@ vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&sec
 vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+vless://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?security=none&encryption=none&headerType=none&type=tcp#✅  @vistav2ray  👈👈کانال ما ✅

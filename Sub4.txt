@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#@B2vasl
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@Zula.ir:2082?path=/&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#@v2ray_configs_pools-join-us-on-Telegram
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@Zula.ir:2082?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#@MARAMBASHI 🇮🇹
@@ -503,3 +502,4 @@ vless://413ce54e-f38c-8d82-6bca-abd345865b1b@185.171.202.229:8443?security=reali
 vless://413ce54e-f38c-8d82-6bca-abd345865b1b@185.171.202.229:8443?security=reality&sid=f49da53c&sni=icloud.com&host=play.google.com&mode=auto&type=xhttp&fp=chrome&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&spx=/&encryption=none#🇫🇷FR-🚀@VPNine1
 vless://413ce54e-f38c-8d82-6bca-abd345865b1b@204.168.172.119:8443?security=reality&sid=f49da53c&sni=icloud.com&host=play.google.com&mode=auto&type=xhttp&fp=chrome&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&spx=/&encryption=none#🇩🇪DE-🚀@VPNine1
 vless://413ce54e-f38c-8d82-6bca-abd345865b1b@204.168.172.119:8443?security=reality&sid=f49da53c&sni=icloud.com&host=play.google.com&mode=auto&type=xhttp&fp=chrome&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&spx=/&encryption=none#🇫🇮130278 | ⚡️Telegram = t.me/SOSkeyNET
+vless://413ce54e-f38c-8d82-6bca-abd345865b1b@46.225.161.49:8443?security=reality&sid=f49da53c&sni=play.google.com&host=play.google.com&mode=auto&type=xhttp&fp=chrome&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&spx=/&encryption=none#@filembad

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@tootffarangi🍓-16
 vless://0108c657-a9bd-4c99-9179-74050cf78889@193.233.255.5:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
 vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#@V2rayi_net
@@ -503,3 +502,4 @@ vless://2354a767-9500-461f-8b09-9344cb80dabb@146.75.119.82:80?type=ws&encryption
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch: @pPal03😟جوین بده عمو جون😟
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch: @pPal03😟جوین بده عمو جون😟
 vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@Net2ray USA🇺🇸
+vless://2402a18b-77f3-4346-db46-4284cb037bb3@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.xelira.ir&fp=chrome&type=ws&sni=cdn.xelira.ir#@VpnCostumer+|+بیا+تو+وصل+باش+💙
