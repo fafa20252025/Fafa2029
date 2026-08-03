@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#کانال تلگرام : Free_VPN_CH@
 vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.101:8880?path=/pyip&security=&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#🧬22@oneclickvpnkeys
 vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=farangis.global.ssl.fastly.neT.&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.coM.#⚫ HORMOZ 🏞️
@@ -502,4 +503,3 @@ vless://3ad1d277-5715-4ca1-84db-5baea72f822d@82.97.252.129:443?encryption=none&f
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr2.astralweb.tech&type=tcp#🧬97@oneclickvpnkeys
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&alpn=h2&fp=chrome&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&alpn=h2&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁴ | @BigSmoke_Config
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&alpn=h2&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁹ | @BigSmoke_Config
