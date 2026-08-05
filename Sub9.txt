@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@v2raybaaz
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?sid=d3b394558cfe0266&fp=chrome&serviceName=api.v1.StreamService&type=grpc&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sni=files.noneok.com#@Alpha_v2rayIP
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&fp=&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&security=reality&serviceName=api.v1.StreamService&sid=1ea59febb8d4fc8e&sni=api.noneok.com&type=grpc#🇩🇪134173 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&fp=&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&security=reality&serviceName=api.v1.StreamService&sid=1ea59febb8d4fc8e&sni=api.noneok.com&type=grpc#🇩🇪DE-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&secu
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#@filembad
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#🇸🇨134098 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#🇺🇸US-🚀@VPNine1
-vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
