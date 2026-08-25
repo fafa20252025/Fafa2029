@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@CxrolVPN
 vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
 vless://deda70d6-62ed-b060-5654-7079fe323a7c@inetchnl-production-5285.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-5285.up.railway.app&path=/ws/deda70d6-62ed-b060-5654-7079fe323a7c&sni=inetchnl-production-5285.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇳🇱@iNetChnl
@@ -502,4 +503,3 @@ vless://f463819c-5e64-458a-808b-6693afb47aa4@45.87.104.185:443?security=tls&alpn
 vless://f47a9a08-312f-835e-6edb-14674f0fa923@69.46.46.18:443?path=/ws/f47a9a08-312f-835e-6edb-14674f0fa923&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-3c7f.up.railway.app&fp=chrome&type=ws&sni=rvg-production-3c7f.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
-vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=/@Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#🍑35@oneclickvpnkeys

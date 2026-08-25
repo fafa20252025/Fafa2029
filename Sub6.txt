@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@vpnbaz ☂️
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@vpnserverrr☂️
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#☑➜چنلمون: Express_freevpn@
@@ -502,4 +503,3 @@ vless://6afc3dfb-c3d7-4e63-94a8-067ca5525e0b@146.75.119.82:80?type=ws&encryption
 vless://6b3d66dc-3fdd-41f7-f627-483bad6d8efc@for.vpnprosec.shop:443?type=tcp&security=reality&fp=chrome&pbk=mf8TEaDwgCte9cUkEh-HUvsNkbacTgu2F_7Ut1rHw1M&sni=zula.ir&flow=xtls-rprx-vision&sid=67cb2b8d&spx=/#telegram:-VpnProSec TCP
 vless://6bc1a7e1-4a6d-499b-aacb-22b2ae2b89b2@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬152154 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6bc1a7e1-4a6d-499b-aacb-22b2ae2b89b2@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬BG-🚀@VPNine1
-vless://6bc1a7e1-4a6d-499b-aacb-22b2ae2b89b2@sto.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇸🇪152153 | ⚡️Telegram = t.me/SOSkeyNET
