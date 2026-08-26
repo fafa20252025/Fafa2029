@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@v2raybaaz ³
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@v2raybaaz ⁴
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@vmess_ir
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=chrome&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#@vpnbaz ☂️
@@ -503,3 +502,4 @@ vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.245.94:443?encryption=none&
 vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.77.215:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
 vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.78.150:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
 vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#@CUSTOMVPNSERVER

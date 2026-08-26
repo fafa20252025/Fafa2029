@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#Channel : @Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#MTMVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#MTMVPN🥌
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#vpnsal
@@ -503,3 +502,4 @@ vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&sec
 vless://0580f04d-b5a2-42ef-8ca5-0b232500b4e8@5.75.192.3:7190?security=reality&type=tcp&headerType=&path=&host=&sni=pypi.org&fp=chrome&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e#🇩🇪@iNetChnl
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#✅ t.me/bigAVPN ایران آزاد 👑
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=&encryption=none&type=ws#@v2ray313 کانالمون 😖
