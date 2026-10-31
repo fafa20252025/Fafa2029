@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.97.3:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/I7f6VOnkgtdCosoK?ed=2560#Join Tel: @CxrolVPN (6)
-vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/flrSNTQ2nbV5eH6t?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (4)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/wtQnVPnbjKOmqP7b?ed=2560#Join Tel: @CxrolVPN (2)
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🇧🇷BR_1207_@Surfboardv2ray
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#pass_net
@@ -503,3 +501,5 @@ vless://66fd9d08-6279-42bd-904d-3227ad527a0c@m8c3w4og.danqela.ir:5062?security=r
 vless://66fd9d08-6279-42bd-904d-3227ad527a0c@m8c3w4og.danqela.ir:5072?security=reality&encryption=none&pbk=K-ra5wYRignlacUglfdjgTJOf4C4_oxKVm_T6YdgsTM&headerType=none&fp=chrome&spx=/05ecd87e17&type=tcp&flow=xtls-rprx-vision&sni=android.clients.google.com&sid=5261db918c5cf1a9#@Tarkshodeh 🇿🇼
 vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443?security=reality&encryption=none&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=f576da5e05a1d4d2#𝗝𝗼𝗶𝗻 ➡️ @configprxy 🔥
 vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@146.75.57.238:443?encryption=none&type=ws&host=polandboijji.global.ssl.fastly.net&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#🇺🇸 @Nap_v2ray⚡
+vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=usaaaaboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#kurdconfig
+vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=frenchanjaai.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#@Nexus_Panell چنل تلگرام

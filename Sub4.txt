@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@172.66.1.36:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#@v2ray_phoenix
-trojan://humanity@172.66.1.36:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@vpnbaz✅️
 trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#11376@proxy_online_net
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@FV2raySaman
@@ -503,3 +501,5 @@ vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-tw-131.ecom-ai-solutions.com:44
 vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-tw-131.ecom-ai-solutions.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-tw-131.ecom-ai-solutions.com&fp=chrome&pbk=RIUz-mLSh5USmpPw1uHkOLlJOlgOeNjTUyp4HEvE020&sid=c17d00c501c75fde&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-tw-131.ecom-ai-solutions.com:443?security=reality&encryption=none&pbk=RIUz-mLSh5USmpPw1uHkOLlJOlgOeNjTUyp4HEvE020&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-tw-131.ecom-ai-solutions.com&sid=c17d00c501c75fde#🔵@chillguy_vpn
 vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-twr-83.statsmarket-wb.com:443?security=reality&encryption=none&pbk=NcboMSfllc9UV7YVPZZCAU2bObHCmYYvbsxpgh5u51c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-twr-83.statsmarket-wb.com&sid=1bd6c0cd25d0b832#@ConfigV2RayNG
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-twr-83.statsmarket-wb.com:443?security=reality&encryption=none&pbk=NcboMSfllc9UV7YVPZZCAU2bObHCmYYvbsxpgh5u51c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-twr-83.statsmarket-wb.com&sid=1bd6c0cd25d0b832#🔵@chillguy_vpn
+vless://07bb42be-e632-4e5f-a3d7-228724486792@iraclud.falnexa.ir:26267?security=none&encryption=mlkem768x25519plus.native.0rtt.TTIMrfaScuBu4nbv7kLxAN8qEWifrY6XS454f5KA3Us&headerType=none&type=tcp#🇹🇷198390 | ⚡️Telegram = t.me/v2ray_configs_pools

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=soulful.host#@Tarkshodeh 🌙
-vless://dac0bd30-008f-42c9-b377-bfc0dcfa6f0b@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#@hopev2ray🤍
 vless://dac0bd30-008f-42c9-b377-bfc0dcfa6f0b@slowkd.sadiepinki.com:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#@EXPRESSVPN_420
 vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?encryption=none&security=none&type=tcp#🇳🇱198391 | ⚡️Telegram = t.me/v2ray_configs_pools
 vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
@@ -503,3 +501,5 @@ vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=realit
 vless://eb8af077-a580-4f67-8042-9572a39e699d@31.76.252.142:443?type=xhttp&security=reality&fp=chrome&pbk=tbKg89n1kirBQbHyexrBIH21iHS0JigQnPqits499R4&sid=f7c8ee5aa55993a0&sni=cl-78.file-rkat.online&path=/assets/media/7c2a83&mode=auto#@VPsave
 vless://eb8af077-a580-4f67-8042-9572a39e699d@46.8.255.252:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-ec5ai1FYGZSDDbOQaR6aDuTklZzKsnrtQUUgykn-mI&sid=9bb9409c0ec4c7a1&sni=msk-01.file-rkat.online#@VPsave
 vless://eb8c46f5-68ae-46dc-aea3-50c8cef41897@cf-mci.coixconqwe1.ir:8880?path=/?ed=2082&security=none&encryption=none&host=gFsgfgااx.1.gm.postshup.ir&type=httpupgrade#@v2rayng3
+vless://ebd0fa91-8d2e-4144-9e1b-28ef324c19ad@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🇹🇷 @UpsetVPN
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#@ConfigV2RayNG
