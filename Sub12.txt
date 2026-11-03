@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9f9062fa-8555-4676-b5a3-506f8cfb5e66@xray1-direct-mci1-fs-ce.freesocks.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#🇺🇸206007 | ⚡️Telegram = t.me/LonUp_M
+vless://9f9062fa-8555-4676-b5a3-506f8cfb5e66@xray1-direct-mci1-fs-ce.freesocks.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI#🔵@chillguy_vpn
 vless://9f9062fa-8555-4676-b5a3-506f8cfb5e66@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#@FXxNET⚡️
 vless://9f9062fa-8555-4676-b5a3-506f8cfb5e66@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#@tootffarangi🍓
 vless://9fbda291-4892-44c1-87a3-d0ca48fcb1dc@199.232.78.159:443?encryption=none&security=tls&sni=community.fastly.steamstatic.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=looabturkeyeoijji.global.ssl.fastly.net.&path=/#Channel : @Daily_Configs
@@ -501,5 +503,3 @@ vless://b17f6233-6726-41ff-9f62-fde7ccdbd282@545.150333.xyz:21001?security=reali
 vless://b1849bfe-e64b-463e-8484-9ab346779597@cad3.irgemini.sbs:24781?security=reality&encryption=none&pbk=qxy9TJUB7D7mvYncIIjjpmk5_wiPxlP18zhrL4JNuBg&headerType=none&fp=chrome&spx=/393464b4b59e333&type=tcp&flow=xtls-rprx-vision&sni=digikala.com&sid=33#Tel-@ProxyMtAlpha🪐 10
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@ICV2RAY
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@MigMigVPNSHOP
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@Net2ray 🩵 1
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#@V2ray_Alpha🫠 3
