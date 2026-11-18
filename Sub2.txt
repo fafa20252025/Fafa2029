@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#Channel : @Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#[98129] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#⚡@@VPNConnectd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#⚡@VPNConnectd
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#@leviconfigs🪐-
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#@leviconfigs🪐-9
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#T.me/Vpn_Mafia 🇷🇺
 ss://YWVzLTI1Ni1nY206NTM5OGE2MmQtNmZhZS00NjVkLThmZmUtMTk0MThhOGI1NjFl@d-ali.200913.xyz:11071#@VPsave
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808#🇷🇺139908 | ⚡️Telegram = t.me/SOSkeyNET

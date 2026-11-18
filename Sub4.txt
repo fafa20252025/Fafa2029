@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@v2ray313 کانالمون 🐙
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#vpnbaz
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#@ConfigV2RayNG
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#@i10VPN⁵
@@ -503,3 +502,4 @@ trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.gg
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#@leviconfigs🪐-26
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@leviconfigs🪐-14
 trojan://c76f0a11e6ba410084c745ad5e92db5f@187.52.45.183:54032?fp=&host=flawers.shop&mode=auto&path=/assets/static/main.js&pbk=SmpFJJ640phT1swTmtifquX9PSuaq2eA0hdUkD2mfyo&security=reality&sid=75aaaa50d52b0121&sni=flawers.shop&type=xhttp#🧬68@oneclickvpnkeys
+trojan://c76f0a11e6ba410084c745ad5e92db5f@217.60.34.72:59321?fp=&host=flawers.shop&mode=auto&path=/assets/static/main.js&pbk=spV8o98ODd4zrGgQYQtu3h2xYBxoSzf6KZ3pj-flhGg&security=reality&sid=6979c4&sni=flawers.shop&type=xhttp#🧬72@oneclickvpnkeys
